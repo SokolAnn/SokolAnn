@@ -1,6 +1,6 @@
 # 🍀✨ Hi there, I'm Anna Sokol! ✨🍀
 
-![Welcome Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGI2Y2NxdzI3OWVpazZsZDJjbGt4ZWd6N20zd2htdDZwN2F1cTBrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWLSXjkAv1c1gwCB4E/200w.gif)<!--
+![Welcome Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGI2Y2NxdzI3OWVpazZsZDJjbGt4ZWd6N20zd2htdDZwN2F1cTBrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWLSXjkAv1c1gwCB4E/200w.gif)
 
 
 I'm a passionate **PhD Student** at **Notre Dame University**, exploring the exciting frontiers of **AI**, **Machine Learning**, **Large Language Models (LLMs)**, and **Knowledge Graphs** to uncover meaningful insights from complex datasets.
