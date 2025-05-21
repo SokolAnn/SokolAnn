@@ -12,7 +12,6 @@ I'm a passionate **PhD Student** at **Notre Dame University**, exploring the exc
 - 📜 **Historical Data Analysis**: Applying computational techniques to reveal hidden narratives and intricate relationships within historical texts.  
 
 ## ☘️ Proudly Fighting Irish!
-At Notre Dame, I'm inspired daily to bridge cutting‑edge technology and real‑world impact, embracing innovation with the Fighting Irish spirit.
 
 ## 📫 Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/sokolann/) • [Twitter/X](https://x.com/Sokol_Anna_A) • [Email](mailto:annsokol@outlook.com)
