@@ -1,23 +1,45 @@
-# 🍀✨ Hi there, I'm Anna Sokol! ✨🍀
+<div align="center">
 
-![Welcome Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGI2Y2NxdzI3OWVpazZsZDJjbGt4ZWd6N20zd2htdDZwN2F1cTBrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWLSXjkAv1c1gwCB4E/200w.gif)
+# 🍀 &nbsp; Anna Sokol
 
+<a href="https://www.linkedin.com/in/sokolann/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=23&duration=2800&pause=900&color=22A45D&center=true&vCenter=true&width=640&height=46&lines=PhD+Student+%40+University+of+Notre+Dame;AI+%C2%B7+ML+%C2%B7+LLMs+%C2%B7+Knowledge+Graphs;Turning+complex+data+into+meaning;Proudly+Fighting+Irish+%E2%98%98%EF%B8%8F" alt="Anna Sokol — PhD Student at the University of Notre Dame" />
+</a>
 
-I'm a passionate **PhD Student** at **Notre Dame University**, exploring the exciting frontiers of **AI**, **Machine Learning**, **Large Language Models (LLMs)**, and **Knowledge Graphs** to uncover meaningful insights from complex datasets.
+</div>
 
-## 🌟 Featured Projects:
-- 📊 **BenchmarkCards**: Developing innovative frameworks for systematically evaluating and comparing AI and LLM models.  
-- 🇨🇴 **Colombian Truth Commission** 🇨🇴: Building dynamic knowledge graphs to support truth, reconciliation, and historical understanding in Colombia.  
-- 🐾 **AI for Wildlife Conservation**: Deploying state‑of‑the‑art AI solutions to monitor, protect, and sustain biodiversity.  
-- 📜 **Historical Data Analysis**: Applying computational techniques to reveal hidden narratives and intricate relationships within historical texts.  
+<br />
 
-## ☘️ Proudly Fighting Irish!
+> I'm a PhD student exploring the frontiers of **AI**, **Machine Learning**, **Large Language Models**, and **Knowledge Graphs** — building systems that turn complex datasets into meaningful, human insight.
 
-## 📫 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/sokolann/) • [Twitter/X](https://x.com/Sokol_Anna_A) • [Email](mailto:annsokol@outlook.com)
+<br />
 
-![Working Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+## ✨ &nbsp; Featured Research & Projects
 
-Let's innovate together! 🍀
+📊 &nbsp; **BenchmarkCards** &nbsp;—&nbsp; Frameworks for systematically evaluating and comparing AI & LLM models.
 
----
+🇨🇴 &nbsp; **Colombian Truth Commission** &nbsp;—&nbsp; Knowledge graphs that support truth, reconciliation, and historical understanding in Colombia.
+
+🐾 &nbsp; **AI for Wildlife Conservation** &nbsp;—&nbsp; State-of-the-art AI to monitor, protect, and sustain biodiversity.
+
+📜 &nbsp; **Historical Data Analysis** &nbsp;—&nbsp; Computational techniques that surface hidden narratives within historical texts.
+
+<br />
+
+## ☘️ &nbsp; Proudly Fighting Irish
+
+Researching, building, and learning at the **University of Notre Dame**.
+
+<br />
+
+## 📫 &nbsp; Let's Connect
+
+**[LinkedIn](https://www.linkedin.com/in/sokolann/)** &nbsp;·&nbsp; **[Twitter / X](https://x.com/Sokol_Anna_A)** &nbsp;·&nbsp; **[Email](mailto:annsokol@outlook.com)**
+
+<br />
+
+<div align="center">
+
+*Let's build something meaningful together.* &nbsp;🍀
+
+</div>
