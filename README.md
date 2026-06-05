@@ -22,7 +22,18 @@
 
 <br />
 
-> ✨ &nbsp; PhD student exploring the frontiers of **AI**, **Machine Learning**, **Large Language Models**, and **Knowledge Graphs** — turning complex datasets into meaningful, human insight.
+<table>
+  <tr>
+    <td valign="middle" width="58%">
+      <br />
+      &#10024; &nbsp; PhD student exploring the frontiers of <b>AI</b>, <b>Machine Learning</b>, <b>Large Language Models</b>, and <b>Knowledge Graphs</b> — turning complex datasets into meaningful, human insight.
+      <br /><br />
+    </td>
+    <td valign="middle" width="42%">
+      <img src="https://media.giphy.com/media/v8jUfaclrsG9x8At9Z/giphy.gif" width="100%" alt="Studying &amp; researching" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
